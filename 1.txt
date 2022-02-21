@@ -1,0 +1,8 @@
+variable decleration 
+ var <variable name> =<value>;
+eg- var a =7;
+	var Myname = "Shraddha";
+ 
+console.log(a) - prints value of variable.
+
+variable names are case sensitive in js
